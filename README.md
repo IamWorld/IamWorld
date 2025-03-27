@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Data Engineer and Data Scientist with a strong background in statistics and aeronautical engineering. With a Master's in Data Science and 10 years of experience, I specialize in:
+I am a Data Analyst with a strong background in statistics and engineering. With a Master's in Data Science and 10 years of experience, I specialize in:
 
 - **Data Engineering & ETL Orchestration**: Expert in **Azure and SQL**
 - **Machine Learning & AI**: Skilled in **PyTorch, Scikit-learn, and NumPy**
@@ -32,7 +32,7 @@ I am a Data Engineer and Data Scientist with a strong background in statistics a
 - **Programming**: Python, SQL, NumPy, Pandas, Scikit-learn.
 - **Cloud**: Azure
 - **Data Visualization**: Matplotlib, Power BI
-- **Machine Learning**: yTorch, TensorFlow, SVM, KNN, Random Forest, PCA, ISOMAP, Convolutional Neural Networks (CNN)
+- **Machine Learning**: PyTorch, TensorFlow, SVM, KNN, Random Forest, PCA, ISOMAP, Convolutional Neural Networks (CNN)
 - **Natural Language Processing**: Advanced NLP (ANLP), Text Analytics, Agentic Solutions
 - **Web Development**: Full-Stack Technologies
 
